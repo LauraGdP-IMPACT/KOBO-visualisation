@@ -13,7 +13,6 @@ st.set_page_config(layout="wide")
 import pandas as pd
 import numpy as np
 import re
-import math
 
 logo_paht="IMPACT_Logo.jpg"
 
